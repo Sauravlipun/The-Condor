@@ -1,0 +1,16 @@
+[[package]]
+category = "main"
+description = "bloomfilter for Python"
+name = "pybloomfilter"
+optional = false
+python-versions = "*"
+version = "1.0"
+
+[metadata]
+content-hash = "326ddb95d170d11d2deedd29392084f9dab97470cbdcadb9d93131f7922756dc"
+python-versions = "^3.8"
+
+[metadata.files]
+pybloomfilter = [
+    {file = "pybloomfilter-1.0.tar.gz", hash = "sha256:13d278688dde7187732f8742e6c71a87eecb67de5f7cb5c58e5a51db4db29365"},
+]
